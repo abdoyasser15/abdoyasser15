@@ -1,6 +1,8 @@
 ## Hi I am abdallah Yasser 👋
 **<p align="center"> Always learning new things </p>**
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
 **abdoyasser15/abdoyasser15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
