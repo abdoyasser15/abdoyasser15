@@ -15,6 +15,8 @@
 - 🤓 Always learning new things
 - 📝 I write clean, scalable code following best practices 
 ---
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" width="300" style="margin-left: 20px;" />
+
 
 
 
