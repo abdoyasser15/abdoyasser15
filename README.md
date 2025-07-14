@@ -9,11 +9,11 @@
 
 ### 🧑‍💻 About Me:
 
-- 👨‍🏫 Working on: Course Management System (ASP.NET Core MVC + Asp.Net Core APIs + Identity + SQL)  
+- 👨‍🏫 Working on: Course Management System (ASP.NET Core MVC + Asp.Net Core APIs + Identity + SQL)
+- 🏆 Ecpc Finalist
 - 🎯 Goal: Building smart systems to track field electrical networks and educational platforms  
 - 📝 I write clean, scalable code following best practices  
 - 💬 Ask me about: .NET, Entity Framework, Identity  
-
 ---
 
 <h2 align="center">💻 My Competitive Programming Profiles</h2>
