@@ -19,10 +19,6 @@
 
 <h2 align="center">💻 My Competitive Programming Profiles</h2>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006360.png" width="50" alt="coding icon"/>
-</p>
-
-<p align="center">
   <a href="https://codeforces.com/profile/Abdallah_F16" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOg7Ka0OJCYuThvywcsaUAIoyhy0dtpexTg&s" width="40">
   <a href="https://leetcode.com/u/abdallah_45" target="_blank">
