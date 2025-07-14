@@ -29,11 +29,12 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3Ir9453MFZjzGK8jeX9en0kjW8igj-FTNg&s" width="40">
 </p>
 
-### 🛠️ Languages and Tools
+### 🛠️ Technology (Back-End .NET)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,git,github,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,ef,mssql,postgresql,azure,git,github,postman,linux,docker,vscode,visualstudio" />
 </p>
+
 
 ---
 
