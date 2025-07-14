@@ -19,6 +19,12 @@
 - 📝 I write clean, scalable code following best practices 
 ---
 
+
+
+
+
+
+
 <h2 align="center">💻 My Competitive Programming Profiles</h2>
 <p align="center">
   <a href="https://codeforces.com/profile/Abdallah_F16" target="_blank">
