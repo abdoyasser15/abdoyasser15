@@ -63,7 +63,8 @@
   <img src="https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
-## 🧠 Competitive Programming & Problem Solving
+
+##🧠 Competitive Programming & Problem Solving
 
 <p align="left">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
