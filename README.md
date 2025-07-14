@@ -27,6 +27,9 @@
 
 ---
 
+<h2 align="left">
+  <img src="https://img.icons8.com/ios-filled/24/00bfff/code.png"/> My Skills
+</h2>
 
 ### 💻 Programming Languages
 
