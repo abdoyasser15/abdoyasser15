@@ -14,24 +14,7 @@
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
 - 📝 I write clean, scalable code following best practices
- <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" width="300" style="margin-left: 20px;" />
-
-
-
-
-
-
-
-
 ---
-
-
-
-
-
-
-
-
 
 <h2 align="center">💻 My Competitive Programming Profiles</h2>
 <p align="center">
