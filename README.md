@@ -16,6 +16,38 @@
 
 ---
 
+<h2 align="center">💻 My Competitive Programming Profiles</h2>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006360.png" width="50" alt="coding icon"/>
+</p>
+
+<p align="center">
+  <a href="https://www.codeforces.com/profile/YOUR_USERNAME" target="_blank">
+    <img src="https://sta.codeforces.com/s/84879/images/codeforces-logo-with-telegram.png" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://atcoder.jp/users/YOUR_USERNAME" target="_blank">
+    <img src="https://img.atcoder.jp/assets/icon/atcoder.png" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.codingame.com/profile/YOUR_USERNAME" target="_blank">
+    <img src="https://user.oc-static.com/upload/2020/08/11/15971427103896_codinGame-logo.png" width="100" />
+  </a>
+</p>
+
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
