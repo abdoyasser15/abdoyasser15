@@ -23,7 +23,8 @@
 
 <p align="center">
   <a href="https://www.codeforces.com/profile/YOUR_USERNAME" target="_blank">
-    <img src="https://sta.codeforces.com/s/84879/images/codeforces-logo-with-telegram.png" width="40" />
+    <img src="<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/1c44a95b-84eb-4d06-b3e1-765de8ed6353" />
+" width="40" />
   </a>&nbsp;&nbsp;
 
   <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
