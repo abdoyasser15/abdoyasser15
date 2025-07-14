@@ -12,9 +12,9 @@
 - 👨‍🏫 I am Backend Developer .Net Core
 - 🏫 I am a fourth-year Computer Science student in Higher Technology Institute 10th-Of-Radman(HTI).
 - 🏆 1x Ecpc Finalist
-- 🎯 Goal: Building smart systems to track field electrical networks and educational platforms  
-- 📝 I write clean, scalable code following best practices  
-- 💬 Ask me about: .NET, Entity Framework, Identity  
+- ✍🏻 I love using Software as a solution for every Problem
+- 🤓 Always learning new things
+- 📝 I write clean, scalable code following best practices 
 ---
 
 <h2 align="center">💻 My Competitive Programming Profiles</h2>
