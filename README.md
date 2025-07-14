@@ -8,9 +8,6 @@
 ---
 
 ### 🧑‍💻 About Me:
-<p align="left">
-  <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" width="300" style="margin-left: 20px;" />
-</p>
 - 👨‍🏫 I am Backend Developer Asp .Net Core
 - 🏫 I am a fourth-year Computer Science student in Higher Technology Institute 10th-Of-Radman(HTI).
 - 🏆 1x Ecpc Finalist
