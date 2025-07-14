@@ -26,26 +26,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOg7Ka0OJCYuThvywcsaUAIoyhy0dtpexTg&s" width="40">
 ">
   </a>&nbsp;&nbsp;
-
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://atcoder.jp/users/YOUR_USERNAME" target="_blank">
-    <img src="https://img.atcoder.jp/assets/icon/atcoder.png" width="40" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="40" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.codingame.com/profile/YOUR_USERNAME" target="_blank">
-    <img src="https://user.oc-static.com/upload/2020/08/11/15971427103896_codinGame-logo.png" width="100" />
-  </a>
 </p>
 
 
