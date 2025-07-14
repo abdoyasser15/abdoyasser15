@@ -42,8 +42,6 @@
 </p>
 
 
----
-
 ### 🛠️ Technology (Back-End .NET)
 
 <p align="left">
