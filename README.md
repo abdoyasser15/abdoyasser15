@@ -24,7 +24,7 @@
   <a href="https://leetcode.com/u/abdallah_45" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3Ir9453MFZjzGK8jeX9en0kjW8igj-FTNg&s" width="40">
 </p>
-
+---
 ### 🛠️ Technology (Back-End .NET)
 
 <p align="left">
