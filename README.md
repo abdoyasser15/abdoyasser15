@@ -94,6 +94,8 @@
   <a href="mailto:abdallahyasser5432@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Button" /> </a>
   <a href="https://www.linkedin.com/in/abdallah-yasser-3b627b250"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/201157986317" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Button"/></a>
+  <a href="https://www.facebook.com/share/1AnUB8F6bn" class="btn facebook">Facebook</a>
+
 </p>
 
 ---
