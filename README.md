@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me:
 
-- 👨‍🏫 I am Backend Developer .Net Core
+- 👨‍🏫 I am Backend Developer Asp .Net Core
 - 🏫 I am a fourth-year Computer Science student in Higher Technology Institute 10th-Of-Radman(HTI).
 - 🏆 1x Ecpc Finalist
 - ✍🏻 I love using Software as a solution for every Problem
