@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Moussa</h1>
-<h3 align="center">Software Engineer | ASP.NET Core & Angular Developer | Electrical Contractor</h3>
+<h1 align="center">Hi 👋, I'm Abdallah Yasser</h1>
+<h3 align="center">Software Engineer | ASP.NET Core </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -9,11 +9,10 @@
 
 ### 🧑‍💻 About Me:
 
-- 🔌 I’m also the founder of an Electrical Contracting Company  
-- 👨‍🏫 Working on: Course Management System (ASP.NET Core MVC + Identity + SQL)  
+- 👨‍🏫 Working on: Course Management System (ASP.NET Core MVC + Asp.Net Core APIs + Identity + SQL)  
 - 🎯 Goal: Building smart systems to track field electrical networks and educational platforms  
 - 📝 I write clean, scalable code following best practices  
-- 💬 Ask me about: .NET, Entity Framework, Angular, Identity  
+- 💬 Ask me about: .NET, Entity Framework, Identity  
 
 ---
 
