@@ -37,11 +37,6 @@
 
 ---
 
-### 📌 Featured Project
-
-- 🔗 [CourseManagementSystem](https://github.com/abdoyasser15/CourseManagementSystem)  
-  💡 A web-based multi-role platform to manage courses, instructors, and student enrollments using ASP.NET Core MVC + Identity + EF Core.
-
 ---
 
 ### 📫 Contact Me
