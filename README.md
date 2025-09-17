@@ -97,14 +97,4 @@
   <a href="https://www.facebook.com/share/1AnUB8F6bn/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Button" /></a>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoyasser15&show_icons=true&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoyasser15&layout=compact&theme=radical" width="50%" />
-</p>
